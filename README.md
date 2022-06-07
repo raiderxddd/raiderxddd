@@ -1,4 +1,4 @@
-### Hello! I am the Raider
+### Hello! I am the Râider
 
 - 🔭 Today I work with front-end
 - 🌱 Studying Typescript
